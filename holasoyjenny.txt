@@ -1,5 +1,7 @@
 Hola, GIT !
 
-Soy Sergio.
+Soy Sergio. ¿Qué tal?
 
 Saludos.
+
+
